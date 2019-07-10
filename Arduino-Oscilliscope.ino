@@ -1,10 +1,3 @@
-/*
- * Written by Bradley Kohler
- * Mechatronics Engineering Student at McMaster University
- * kohlerba@mcmaster.ca
- * GitHub: https://github.com/studentbrad
- */
-
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
